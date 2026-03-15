@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://alisiam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:alisiam549@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:naziulsiam3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
@@ -40,6 +40,7 @@
 ### 🚀 Highlighted Work
 
 <table align="center" border="0" style="border-collapse: collapse; width: 100%;">
+  <!-- ROW 1: ZEROSCAN & LINKTREE -->
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/naziulsiam/zeroscan">
@@ -68,32 +69,53 @@
     </td>
   </tr>
   
+  <!-- ROW 2: NIGHTBITE & IELTSHALA -->
   <tr>
+    <td width="50%" align="center">
+      <br>
+      <a href="https://github.com/naziulsiam/nightbite">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=nightbite&theme=tokyonight&border_color=30363d&bg_color=0d1117" />
+      </a>
+    </td>
     <td width="50%" align="center">
       <br>
       <a href="https://github.com/naziulsiam/ielts-hala">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=ielts-hala&theme=tokyonight&border_color=30363d&bg_color=0d1117" />
       </a>
     </td>
-    <td width="50%" align="center">
-      <br>
-      <a href="https://github.com/naziulsiam/weatherdash">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=weatherdash&theme=tokyonight&border_color=30363d&bg_color=0d1117" />
-      </a>
-    </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <p><strong>NightBite – Food Rescue Marketplace</strong><br>
+        Save food, save money, save the planet. Get mystery boxes from top restaurants at 50-70% off! Built with Vite, TypeScript, React, shadcn-ui, and Tailwind CSS.</p>
+      </blockquote>
+    </td>
     <td width="50%" valign="top">
       <blockquote>
         <p><strong>IELTShala - AI-Powered IELTS Learning Platform</strong><br>
         A comprehensive platform for IELTS preparation with AI-powered speaking and writing evaluation. Built with Next.js 14, Node.js/Express, MongoDB, and integrates OpenAI API / Azure Cognitive Services.</p>
       </blockquote>
     </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <p><strong>WeatherDash ⛅</strong><br>
-        A premium weather dashboard built with React, TypeScript, and Tailwind CSS featuring glassmorphism design, dynamic weather animations, and real-time metrics (wind, humidity, pressure, UV, visibility).</p>
-      </blockquote>
+  </tr>
+
+  <!-- ROW 3: TOOLJAM (Full width or single card) -->
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <a href="https://github.com/naziulsiam/tooljam">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=tooljam&theme=tokyonight&border_color=30363d&bg_color=0d1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <div style="width: 50%; max-width: 600px; padding: 0 10px;">
+        <blockquote>
+          <p align="left"><strong>ToolJam (Next.js Multi-Tool Platform)</strong><br>
+          A Next.js App Router application providing age calculation logic, currency API integration, AdSense slots, and a dark mode friendly UI built with Tailwind CSS and React hooks.</p>
+        </blockquote>
+      </div>
     </td>
   </tr>
 </table>
