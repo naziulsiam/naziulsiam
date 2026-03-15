@@ -24,10 +24,22 @@
 
 ### 🔬 Highlighted Projects
 
-| <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=zeroscan&theme=tokyonight&border_color=30363d&bg_color=0d1117" /> | <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=zeroday-linktree&theme=tokyonight&border_color=30363d&bg_color=0d1117" /> |
-| :---: | :---: |
-| <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=zerosint-frontend&theme=tokyonight&border_color=30363d&bg_color=0d1117" /> | <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=ielts-hala&theme=tokyonight&border_color=30363d&bg_color=0d1117" /> |
-| <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=weatherdash&theme=tokyonight&border_color=30363d&bg_color=0d1117" /> | <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naziulsiam&repo=aliflex&theme=tokyonight&border_color=30363d&bg_color=0d1117" /> |
+#### [zeroscan](https://github.com/naziulsiam/zeroscan)
+> **🚀 ZeroScan – Frontend**
+> A sleek cyber-themed UI for scanning code vulnerabilities. Modern. Fast. Hacker-vibe.
+> Features a terminal-style scan animation, dashboard showing vulnerabilities, and clean neon cyber design built with Next.js, Tailwind, and Framer Motion.
+
+#### [zeroday-linktree](https://github.com/naziulsiam/zeroday-linktree)
+> **LSBU-ZeroDay Linktree (CyberSec Student Society Hub)**
+> A custom, highly animated, and fully responsive "Linktree" alternative built specifically for University Cybersecurity Societies. Features a Matrix rain animation loader, CRT scanline effects, and interactive glitch hover animations.
+
+#### [ielts-hala](https://github.com/naziulsiam/ielts-hala)
+> **IELTShala - AI-Powered IELTS Learning Platform**
+> A comprehensive platform for IELTS preparation with AI-powered speaking and writing evaluation. Built with Next.js 14, Node.js/Express, MongoDB, and integrates OpenAI API / Azure Cognitive Services.
+
+#### [weatherdash](https://github.com/naziulsiam/weatherdash)
+> **WeatherDash ⛅**
+> A premium weather dashboard built with React, TypeScript, and Tailwind CSS featuring glassmorphism design, dynamic weather animations, and real-time metrics (wind, humidity, pressure, UV, visibility).
 
 <br />
 
@@ -38,8 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziulsiam&layout=compact&theme=tokyonight&border_color=30363d&bg_color=0d1117&hide_border=true&title_color=38bdf8" alt="Top Languages" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naziulsiam&theme=tokyonight&background=0d1117&border=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
 </p>
-
-<!-- 
-Optional: Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naziulsiam&theme=tokyonight&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="100%" alt="Activity Graph" />
--->
