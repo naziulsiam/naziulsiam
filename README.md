@@ -1,95 +1,68 @@
+![Ali Siam — Cybersecurity, Software and Systems](./assets/header.svg)
+
 <div align="center">
 
-# Ali Siam
-
-### Computer Science Student · Cybersecurity Practitioner · Software Builder
-
-London, United Kingdom
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://alisiam.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naziulsiam)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naziulsiam3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://alisiam.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://linkedin.com/in/naziulsiam)
+[![Email](https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:naziulsiam3@gmail.com)
 
 </div>
 
----
+## `./whoami`
 
-## About
+> Security-minded Computer Science student who enjoys building practical products and understanding how systems fail.
 
-I am a BSc Computer Science student at **London South Bank University**, focused on cybersecurity and practical software development.
+I study **BSc Computer Science at London South Bank University**. Before moving to the UK, I worked as a **Junior Software Engineer in penetration testing**, testing web and mobile applications and reporting security findings.
 
-Before moving to the UK, I worked as a **Junior Software Engineer (Penetration Tester)**, testing web and mobile applications, documenting security findings, and supporting secure development. I am also the **Founding President of the LSBU ZeroDay Cyber Security Society**, where I help organise technical sessions, awareness events, and student security activities.
+I also founded and lead the **LSBU ZeroDay Cyber Security Society**, organising technical sessions, security awareness events, demonstrations, and student activities.
 
-I am interested in cybersecurity, secure software engineering, defensive operations, and building useful digital products.
+![Technical stack](./assets/stack.svg)
 
-## Technical skills
+## `./featured-work`
 
-**Cybersecurity:** Web application testing, vulnerability assessment, OWASP Top 10, security reporting, API testing, SOC fundamentals
+<a href="https://github.com/naziulsiam/cybersense">
+  <img src="./assets/projects/cybersense.svg" width="100%" alt="CyberSense project" />
+</a>
 
-**Security tools:** Burp Suite, OWASP ZAP, Nmap, Nikto, SQLMap, Wazuh, FFUF, Docker
+<a href="https://github.com/naziulsiam/ieltshala">
+  <img src="./assets/projects/ieltshala.svg" width="100%" alt="IELTShala project" />
+</a>
 
-**Programming:** Python, Java, JavaScript, TypeScript, Bash, SQL
+<a href="https://github.com/naziulsiam/weatherdash">
+  <img src="./assets/projects/weatherdash.svg" width="100%" alt="WeatherDash project" />
+</a>
 
-**Web development:** React, Next.js, Node.js, Express, Tailwind CSS
+<a href="https://github.com/naziulsiam/tooljam">
+  <img src="./assets/projects/tooljam.svg" width="100%" alt="ToolJam project" />
+</a>
 
-**Systems and platforms:** Linux, Git, GitHub, Raspberry Pi, Postman, Packet Tracer
+<a href="https://github.com/naziulsiam/zeroday-linktree">
+  <img src="./assets/projects/zeroday.svg" width="100%" alt="LSBU ZeroDay project" />
+</a>
 
-## Selected projects
+<a href="https://github.com/naziulsiam/pattysource">
+  <img src="./assets/projects/pattysource.svg" width="100%" alt="PattySource project" />
+</a>
 
-### [CyberSense](https://github.com/naziulsiam/cybersense)
+## `./beyond-code`
 
-Interactive cybersecurity-awareness training covering phishing, social engineering, passwords, malware, and common online threats.
+- **Founding President** — LSBU ZeroDay Cyber Security Society
+- **Cybersecurity experience** — web, mobile, and API security testing
+- **Community** — former Bangladesh Red Crescent Youth volunteer
+- **Current direction** — defensive security, secure development, and practical full-stack engineering
 
-`HTML` `CSS` `JavaScript`
+## `./current-status`
 
-### [IELTShala](https://github.com/naziulsiam/ieltshala)
-
-A full IELTS preparation platform with skill-specific practice, learner accounts, progress features, and AI-assisted writing and speaking workflows.
-
-`React` `TypeScript` `Supabase` `Vite`
-
-### [WeatherDash](https://github.com/naziulsiam/weatherdash)
-
-A responsive weather dashboard with dynamic conditions, forecasts, alerts, unit switching, and animated data visualisation.
-
-`React` `TypeScript` `Tailwind CSS` `Recharts`
-
-### [ToolJam](https://github.com/naziulsiam/tooljam)
-
-A collection of fast, accessible browser tools, including an age calculator and currency converter.
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-### [LSBU ZeroDay Link Hub](https://github.com/naziulsiam/zeroday-linktree)
-
-The official online link hub for the LSBU ZeroDay Cyber Security Society, bringing together events, resources, team information, and community channels.
-
-`HTML` `CSS` `JavaScript`
-
-### [PattySource](https://github.com/naziulsiam/pattysource)
-
-A mobile-first B2B website for a Jamaican patty wholesale brand, featuring products, stockist enquiries, and an interactive demo basket.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-## Leadership and community
-
-- Founding President of the **LSBU ZeroDay Cyber Security Society**
-- Organiser of cybersecurity awareness sessions, demonstrations, quizzes, and student events
-- Former Bangladesh Red Crescent Youth volunteer
-- Interested in making technical security topics understandable and practical
-
-## Currently
-
-- Building practical cybersecurity and full-stack projects
-- Developing skills in defensive security, application testing, and secure development
-- Open to UK cybersecurity and software engineering placement opportunities
-
----
+```text
+location    London, United Kingdom
+education   BSc Computer Science @ LSBU
+focus       Cybersecurity + Software Engineering
+status      Open to UK placement opportunities
+```
 
 <div align="center">
 
-### Let’s connect
+### Build securely. Learn continuously. Share what matters.
 
 [Portfolio](https://alisiam.vercel.app/) · [LinkedIn](https://linkedin.com/in/naziulsiam) · [Email](mailto:naziulsiam3@gmail.com)
 

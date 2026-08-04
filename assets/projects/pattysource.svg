@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">PattySource</title><desc id="desc">Mobile-first wholesale website with enquiries and demo ordering.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111c2e"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="230" rx="22" fill="url(#bg)"/><rect width="1200" height="230" rx="22" fill="url(#grid)"/>
+<rect x="0" y="0" width="8" height="230" rx="4" fill="#fbbf24"/>
+<circle cx="1140" cy="48" r="5" fill="#fbbf24"/><circle cx="1162" cy="48" r="5" fill="#334155"/><circle cx="1184" cy="48" r="5" fill="#334155"/>
+<text x="48" y="48" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="2">B2B PRODUCT</text>
+<text x="48" y="100" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="750">PattySource</text>
+<text x="48" y="138" fill="#a7b4c7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Mobile-first wholesale website with enquiries and demo ordering.</text>
+<rect x="48" y="170" width="150" height="34" rx="17" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".45"/><text x="123" y="193" text-anchor="middle" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">Next.js</text><rect x="218" y="170" width="150" height="34" rx="17" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".45"/><text x="293" y="193" text-anchor="middle" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">TypeScript</text><rect x="388" y="170" width="150" height="34" rx="17" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".45"/><text x="463" y="193" text-anchor="middle" fill="#dbeafe" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">Business</text>
+</svg>
